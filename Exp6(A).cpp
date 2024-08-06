@@ -1,5 +1,5 @@
 // NAME - Pranjal Panwar 
-// PRN -2307023164
+// PRN -23070123164
 // EXPERIMENT -6(A) 
 
 #include<iostream>
